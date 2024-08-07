@@ -1,1 +1,1 @@
-anith.design — a studio crafting intuitive websites and software for everyday use.
+anith.design — a studio crafting websites and software.
